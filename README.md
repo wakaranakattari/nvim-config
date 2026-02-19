@@ -30,7 +30,7 @@ neovim-config/
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/neovim-config.git ~/.config/nvim
+git clone https://github.com/wakaranakattari/neovim-config.git ~/.config/nvim
 ```
 Start Neovim and wait for plugins to install:
 
